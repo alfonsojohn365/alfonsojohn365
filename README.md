@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfonsojohn365
 - 👀 I’m interested in learning to code in an effort to land a job as a developer.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project that will help learn the tools to be a successfull developer.
+- 💞️ I’m looking to collaborate on any project that will help me learn the tools to be a successfull developer.
 - 📫 How to reach me @ alfonsojohn@hotmail.com
 
 <!---
